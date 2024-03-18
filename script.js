@@ -1,4 +1,4 @@
-alert('JS працює');
+alert('Hello');
 
 const button = document.querySelector('.input-container button')
 const input = document.querySelector('.input-container input')
